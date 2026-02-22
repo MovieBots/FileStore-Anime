@@ -22,7 +22,7 @@ WORKERS = 5
 DB_URI = "mongodb+srv://arpitgavla121:4hofZNIFGQyXCi86@cluster0.zh4ni.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DB_NAME = "yato"
 
-FSUBS = [[-1003758374091, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [[-1003758374091 -1003754216067, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
 DB_CHANNEL =  -1003555104823  # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
@@ -46,7 +46,7 @@ MESSAGES = {
     "REPLY": "<b>For More Join - https://t.me/+oac8TAQAvE8wODE1</b>",
     "SHORT_MSG": "<b>📊 ʜᴇʏ {first}, \n\n‼️ ɢᴇᴛ ᴀʟʟ ꜰɪʟᴇꜱ ɪɴ ᴀ ꜱɪɴɢʟᴇ ʟɪɴᴋ ‼️\n\n ⌯ ʏᴏᴜʀ ʟɪɴᴋ ɪꜱ ʀᴇᴀᴅʏ, ᴋɪɴᴅʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴏᴘᴇɴ ʟɪɴᴋ ʙᴜᴛᴛᴏɴ..</b>",
     "START_PHOTO": "https://telegra.ph/file/7984565846bae5f7afd9f-16e1e1940f7ca79fa1.jpg",
-    "FSUB_PHOTO": "https://telegra.ph/file/7a16ef7abae23bd238c82-b8fbdcb05422d71974.jpg",
+    "FSUB_PHOTO": "https://telegra.ph/file/e4475478cdb7a427ab727-1ca9c5d7b1b6689cd2.jpg",
     "SHORT_PIC": "https://telegra.ph/file/7a16ef7abae23bd238c82-b8fbdcb05422d71974.jpg",
     "SHORT": "https://telegra.ph/file/8aaf4df8c138c6685dcee-05d3b183d4978ec347.jpg"
 }
