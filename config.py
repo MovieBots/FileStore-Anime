@@ -22,7 +22,7 @@ WORKERS = 5
 DB_URI = "mongodb+srv://arpitgavla121:4hofZNIFGQyXCi86@cluster0.zh4ni.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DB_NAME = "yato"
 
-FSUBS = [[-1003758374091 -1003754216067, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [[-1003758374091, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
 DB_CHANNEL =  -1003555104823  # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
