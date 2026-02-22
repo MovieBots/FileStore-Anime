@@ -45,7 +45,7 @@ MESSAGES = {
     "ABOUT": "<b>›› ғᴏʀ ᴍᴏʀᴇ: https://t.me/+oac8TAQAvE8wODE1 \n <blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/+oac8TAQAvE8wODE1'>Cʟɪᴄᴋ ʜᴇʀᴇ</a> \n›› ᴏᴡɴᴇʀ: @Arpitbotmovies\n›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a> \n›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a> \n›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a> \n›› ᴅᴇᴠᴇʟᴏᴘᴇʀ:@Arpitbotmovies</b></blockquote>",
     "REPLY": "<b>For More Join - https://t.me/+oac8TAQAvE8wODE1</b>",
     "SHORT_MSG": "<b>📊 ʜᴇʏ {first}, \n\n‼️ ɢᴇᴛ ᴀʟʟ ꜰɪʟᴇꜱ ɪɴ ᴀ ꜱɪɴɢʟᴇ ʟɪɴᴋ ‼️\n\n ⌯ ʏᴏᴜʀ ʟɪɴᴋ ɪꜱ ʀᴇᴀᴅʏ, ᴋɪɴᴅʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴏᴘᴇɴ ʟɪɴᴋ ʙᴜᴛᴛᴏɴ..</b>",
-    "START_PHOTO": "https://i.ibb.co/dsGC5yvK/photo-2026-02-22-15-30-55-7609713932818710544.jpg",
+    "START_PHOTO": "https://telegra.ph/file/6f59a1224cbd65a0aa955-e9435fbcb75653a361.jpg",
     "FSUB_PHOTO": "https://telegra.ph/file/e4475478cdb7a427ab727-1ca9c5d7b1b6689cd2.jpg",
     "SHORT_PIC": "https://telegra.ph/file/7a16ef7abae23bd238c82-b8fbdcb05422d71974.jpg",
     "SHORT": "https://telegra.ph/file/8aaf4df8c138c6685dcee-05d3b183d4978ec347.jpg"
